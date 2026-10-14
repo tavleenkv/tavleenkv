@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Tavleen 👋
 
-<!--
-**tavleenkv/tavleenkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Undergraduate
+🔒 Aspiring Security Analyst | SOC Analyst | Incident Responder
+📍 United Kingdom
 
-Here are some ideas to get you started:
+I'm a cybersecurity student with a strong interest in security operations, threat detection, digital forensics, and cloud security. I enjoy building practical security projects, analysing security events, and developing my technical skills through hands-on labs and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+- Python
+- Java
+- Javascript
+- PHP
+- HTML
+- CSS
+- CAD (basic)
