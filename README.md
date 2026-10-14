@@ -48,8 +48,3 @@ A collection of cybersecurity tools developed in Python for security analysis, i
 - Improve SOC analyst skills
 - Gain hands-on cloud security experience
 - Contribute to open-source projects
-
----
-## Contact Me
-- Email - Tavleenkv@gmail.com
-- GitHub - https://github.com/tavleenkv
